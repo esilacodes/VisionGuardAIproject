@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-05-29 10:56:02.807",
+    "event_type": "info",
+    "message": "Motion detection started (Sensitivity: 70%)",
+    "username": "bb",
+    "error": null,
+    "status": "logged"
+  },
+  {
+    "timestamp": "2026-05-29 10:56:15.838",
+    "event_type": "info",
+    "message": "Motion detection stopped",
+    "username": "bb",
+    "error": null,
+    "status": "logged"
+  },
+  {
+    "timestamp": "2026-05-29 11:00:49.515",
+    "event_type": "info",
+    "message": "Motion detection started (Sensitivity: 70%)",
+    "username": "bb",
+    "error": null,
+    "status": "logged"
+  },
+  {
+    "timestamp": "2026-05-29 11:01:00.737",
+    "event_type": "info",
+    "message": "Motion detection stopped",
+    "username": "bb",
+    "error": null,
+    "status": "logged"
+  },
+  {
+    "timestamp": "2026-05-29 11:01:21.192",
+    "event_type": "info",
+    "message": "Motion detection started (Sensitivity: 70%)",
+    "username": "bb",
+    "error": null,
+    "status": "logged"
+  },
+  {
+    "timestamp": "2026-05-29 11:01:29.224",
+    "event_type": "info",
+    "message": "Motion detection stopped",
+    "username": "bb",
+    "error": null,
+    "status": "logged"
+  }
+]
