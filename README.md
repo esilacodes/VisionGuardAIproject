@@ -39,7 +39,7 @@ requirements.txt — Python dependencies
 
 Installation
 Step 1 — Clone the repository
-git clone https://github.com/yourusername/visionguard-ai.git
+git clone https://github.com/esilacodes/VisionGuardAIproject
 cd visionguard-ai
 Step 2 — Create a virtual environment
 python -m venv venv
